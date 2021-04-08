@@ -1,4 +1,4 @@
-# ExaBot
+# ExaBot from Discord
 
 bot from Discord
 
