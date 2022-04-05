@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/exanime" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="exanime" height="30" width="40" /></a>
-<a href="https://discord-exabot.glitch.me/" target="blank"><img align="center" src="https://cdn.glitch.com/7cee5634-e2fb-415f-b3dd-3679a885efd9%2Fa49e1f6054e38f0431702cc1a2e94490.png" alt="rgKcds8" height="25" width="35" /></a>
-<a href="https://linktr.ee/Exanime" target="blank"><img align="center" src="https://cdn.glitch.global/7cee5634-e2fb-415f-b3dd-3679a885efd9/linktree.png" alt="rgKcds8" height="30" width="40" /></a>
+<a href="https://discord-exabot.glitch.me/" target="blank"><img align="center" src="https://cdn.glitch.com/7cee5634-e2fb-415f-b3dd-3679a885efd9%2Fa49e1f6054e38f0431702cc1a2e94490.png" alt="rgKcds8" height="25" width="25" /></a>
+<a href="https://linktr.ee/Exanime" target="blank"><img align="center" src="https://cdn.glitch.global/7cee5634-e2fb-415f-b3dd-3679a885efd9/linktree.png" alt="rgKcds8" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
