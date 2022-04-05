@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [DiscordBetter](https://github.com/Exanime0027/DiscordBetter)
 
-- 💰 Donation [PayPal](https://www.paypal.com/paypalme/ExanimeTV)
+- 💰 Donation [PayPal](https://paypal.me/ExanimeTV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
