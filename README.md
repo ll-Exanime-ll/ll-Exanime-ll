@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [💀ExaBot💀](https://discord-exabot.glitch.me/)
 
-- 🔭 I’m currently working on [DiscordBetter](https://github.com/Exanime0027/DiscordBetter)
+- 🔭 I’m currently working on [BetterDiscord](https://github.com/ll-Exanime-ll/BetterDiscord)
 
 - 💰 Donation [PayPal](https://paypal.me/ExanimeTV)
 
