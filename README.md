@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/exanime" target="blank"><img align="center" src="https://cdn.glitch.com/7cee5634-e2fb-415f-b3dd-3679a885efd9%2Fyoutube.png" alt="exanime" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/Exanime" target="blank"><img align="center" src="https://cdn.glitch.com/7cee5634-e2fb-415f-b3dd-3679a885efd9%2Fyoutube.png" alt="exanime" height="30" width="30" /></a>
 <a href="https://discord-exabot.glitch.me/" target="blank"><img align="center" src="https://cdn.glitch.com/7cee5634-e2fb-415f-b3dd-3679a885efd9%2Fa49e1f6054e38f0431702cc1a2e94490.png" alt="web" height="30" width="30" /></a>
 <a href="https://linktr.ee/Exanime" target="blank"><img align="center" src="https://cdn.glitch.global/7cee5634-e2fb-415f-b3dd-3679a885efd9/linktree.png" alt="social" height="30" width="30" /></a>
 </p>
