@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exanime0027&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
+- 🌐 Web official [Leyendas](https://website.exanime.repl.co/)
+
 - 🔭 I’m currently working on [💀ExaBot💀](https://discord-exabot.glitch.me/)
 
 - 🔭 I’m currently working on [BetterDiscord](https://github.com/ll-Exanime-ll/BetterDiscord)
