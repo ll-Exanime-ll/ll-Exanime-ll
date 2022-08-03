@@ -1,5 +1,11 @@
 <h3 align="center">WELCOME TO MY PROFILE</h3>
 
+<div align="center">
+	<a href="https://discord.com/users/368399721494216706" >  
+  		<img src="https://lanyard.kyrie25.me/api/368399721494216706"  />  
+	</a>  
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exanime0027&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 🌐 Web official [Leyendas](https://website.exanime.repl.co/)
