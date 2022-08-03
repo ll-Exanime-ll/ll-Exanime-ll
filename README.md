@@ -2,7 +2,7 @@
 
 <div align="center">
 	<a href="https://discord.com/users/508291139821109278" >  
-  		<img src="https://lanyard.kyrie25.me/api/368399721494216706"  />  
+  		<img src="https://lanyard.kyrie25.me/api/508291139821109278"  />  
 	</a>  
 </div>
 
